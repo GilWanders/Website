@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[116],{4053:function(e,t,a){a.r(t);var r=a(7294),l=a(5641),n=a(262);t.default=function(){return r.createElement(l.Z,null,r.createElement(n.Z,{title:"Gil Wanders - Photography"}),r.createElement("div",{id:"photography-page"},r.createElement("h1",null,"Photos TBD")))}}}]);
+//# sourceMappingURL=component---src-pages-photography-tsx-cf8ec4b888ea3d861e81.js.map

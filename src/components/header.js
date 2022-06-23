@@ -26,6 +26,7 @@ const Header = ({ siteTitle }) => (
     <nav>
       <Link
         to="/photography"
+        activeClassName="active"
         style={{
           fontSize: `var(--font-sm)`,
           textDecoration: `none`,
@@ -35,6 +36,7 @@ const Header = ({ siteTitle }) => (
       </Link>
       <Link
         to="/music"
+        activeClassName="active"
         style={{
           fontSize: `var(--font-sm)`,
           textDecoration: `none`,

@@ -1,0 +1,26 @@
+.content-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.content-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 70vh;
+  width: 50vw;
+}
+
+.content-card:hover {
+  background-color: #2D5873;
+}
+
+/*
+  Great Wave off Kanagawa colors
+  - #011640: Dark navy
+  - #2D5873: Aqua
+  - #7BA696: Seafoam green
+  - #BFBA9F: Sandy tan
+  - #BF9663: Boat orange
+*/
